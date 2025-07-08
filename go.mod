@@ -1,4 +1,4 @@
-module RabbitMQExemplo
+module Hangman
 
 go 1.24.3
 
